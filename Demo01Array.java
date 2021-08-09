@@ -35,6 +35,7 @@ public class Demo01Array {
 
         //创建一个数组，能存放5个字符串
         String[] arrayC = new String[5];
+		BigDecimal he = new BigDecimal();
 
     }
 }
